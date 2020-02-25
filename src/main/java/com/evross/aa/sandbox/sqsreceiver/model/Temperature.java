@@ -1,4 +1,4 @@
-package com.hp.aa.sandbox.sqsreceiver.model;
+package com.evross.aa.sandbox.sqsreceiver.model;
 
 public class Temperature {
 	private final double value;

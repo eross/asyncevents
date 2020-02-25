@@ -1,4 +1,4 @@
-package com.hp.aa.sandbox.sqsreceiver;
+package com.evross.aa.sandbox.sqsreceiver;
 
 import java.util.concurrent.Executor;
 

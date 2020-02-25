@@ -1,6 +1,7 @@
-package com.hp.aa.sandbox.sqsreceiver.generator;
+package com.evross.aa.sandbox.sqsreceiver.generator;
 
-import  com.hp.aa.sandbox.sqsreceiver.model.*;
+import com.evross.aa.sandbox.sqsreceiver.model.Temperature;
+import com.evross.aa.sandbox.sqsreceiver.model.*;
 import java.util.Random;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

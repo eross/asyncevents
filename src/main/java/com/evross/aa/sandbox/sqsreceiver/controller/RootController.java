@@ -1,4 +1,4 @@
-package com.hp.aa.sandbox.sqsreceiver.controller;
+package com.evross.aa.sandbox.sqsreceiver.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
 
-import com.hp.aa.sandbox.sqsreceiver.model.Temperature;
+import com.evross.aa.sandbox.sqsreceiver.model.Temperature;
 
 
 @RestController

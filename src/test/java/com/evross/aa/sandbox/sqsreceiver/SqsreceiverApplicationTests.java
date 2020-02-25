@@ -1,4 +1,4 @@
-package com.hp.aa.sandbox.sqsreceiver;
+package com.evross.aa.sandbox.sqsreceiver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
